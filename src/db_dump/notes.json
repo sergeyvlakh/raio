@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "5b0e941d8c37ea12336231a9" }, "text" : "Heyeheyeheyeheyehey", "slug" : "My life", "authorId" : { "$oid" : "5b0e8d591f408a208560064b" } }
+{ "_id" : { "$oid" : "5b0fa3c227230e30a12469f8" }, "text" : "Greetings, mercenaries! I am Silke! Thespian extraordinary!", "slug" : "my-awesome-life", "authorId" : { "$oid" : "5b0e8d591f408a208560064b" } }
+{ "_id" : { "$oid" : "5b0fa44727230e30a1246a04" }, "authorId" : { "$oid" : "5b0fa41027230e30a12469fe" }, "slug" : "simply-awesome", "text" : "Nothing to see here tbqh" }
